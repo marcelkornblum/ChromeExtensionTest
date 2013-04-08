@@ -1,0 +1,16 @@
+{   
+	"name": "Chrome Extension Test",   
+	"version": "1.0",    
+	"manifest_version" : 2,
+
+	"description": "My first Chrome extension.",  
+	"icons": {
+
+	},
+	"default_locale": "en",
+
+	"browser_action": {     
+		"default_icon": "icon.png",
+		"default_popup": "main.html"
+	} 
+} 
